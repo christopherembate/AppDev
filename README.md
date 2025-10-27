@@ -3,16 +3,13 @@
 
 > *"I'm gonna be King of the Pirates!"* — **Monkey D. Luffy**
 
----
-
-## 🌊 Overview
 
 **One Piece** is a *Japanese anime* and *manga* created by **Eiichiro Oda**.  
 It follows the journey of **Monkey D. Luffy**, a cheerful and determined pirate whose goal is to find the legendary treasure known as the **One Piece** and become the **Pirate King**.
 
 ---
 
-## ⚓ Main Characters
+## ⚓ Characters
 
 | Character | Role | Devil Fruit |
 |------------|------|--------------|
@@ -52,12 +49,3 @@ It is divided into two halves:
 
 ---
 
-## 🔧 Sample JSON Representation of a Straw Hat Crew Member
-
-```json
-{
-  "name": "Roronoa Zoro",
-  "role": "Swordsman",
-  "dream": "To become the world's greatest swordsman",
-  "weapons": ["Wado Ichimonji", "Sandai Kitetsu", "Enma"]
-}
